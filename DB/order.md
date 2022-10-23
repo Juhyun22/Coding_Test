@@ -1,6 +1,6 @@
-Select
-From
-Where
-Group By
-Having
-Order By
+Select</br>
+From</br>
+Where</br>
+Group By</br>
+Having</br>
+Order By</br>
