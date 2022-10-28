@@ -1,0 +1,5 @@
+# 가장 최근 하나!인 값은 비교하지 말고 조건 걸고 LIMIT 1로 하는게 나음!!
+SELECT DATETIME AS '시간'
+FROM ANIMAL_INS
+ORDER BY DATETIME DESC
+LIMIT 1
