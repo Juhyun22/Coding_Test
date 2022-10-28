@@ -1,1 +1,0 @@
-Sum, Mas, min
